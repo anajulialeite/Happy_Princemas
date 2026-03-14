@@ -8,7 +8,7 @@ Este é um site que uma fã do Prince me pediu para fazer, para a gente poder di
 
 ## Demonstração
 
-
+<img src="Imagens/Captura de tela 2026-03-14 132524.png" alt="Portifolio" align="center" width="300"/>
 
 ## Autora
 
