@@ -10,6 +10,12 @@ Este é um home page que uma fã do Prince me pediu para fazer para ser colocado
 
 <img src="Imagens/Captura de tela 2026-03-14 132524.png" alt="Portifolio" align="center" width="300"/>
 
+## Links úteis
+
+<a href="https://anajulialeite.github.io/Happy_Princemas/" style="text-decoration:none" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Happy_Princemas_💜-%231C003F?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="Happy Princemas 💜"/>
+</a>
+
 ## Autora
 
 Ana Júlia de Lima Aguiar Leite
